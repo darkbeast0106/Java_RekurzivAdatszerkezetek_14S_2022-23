@@ -1,4 +1,4 @@
-package hu.petrik.rekurzivadatszerkezetek;
+package hu.petrik.rekurzivadatszerkezetek.binarisfa;
 
 public class BinarisFa<T extends Comparable<T>> {
     private Node gyoker;

@@ -1,4 +1,4 @@
-package hu.petrik.rekurzivadatszerkezetek;
+package hu.petrik.rekurzivadatszerkezetek.binarisfa;
 
 public class Main {
     public static void main(String[] args) {
